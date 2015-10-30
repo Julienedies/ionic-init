@@ -1,0 +1,9 @@
+{
+  "name": "ionic-init",
+    "dependencies":{
+
+    },
+  "devDependencies": {
+    "ionic": "driftyco/ionic-bower#1.1.0"
+  }
+}

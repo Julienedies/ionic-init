@@ -1,0 +1,20 @@
+{
+    "name": "ionic-init",
+    "version": "0.1.0",
+    "description": "ionic项目初始化",
+    "author": "julien",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:julienedies/ionic-init.git"
+    },
+    "dependencies": {
+    },
+    "devDependencies": {
+        "fis-zoo": "*"
+    },
+    "cordovaPlugins": [
+        "cordova-plugin-device",
+        "cordova-plugin-console"
+    ],
+    "cordovaPlatforms": []
+}
